@@ -1,0 +1,35 @@
+[
+  {
+    "role": "MERN stack Intern",
+    "organisation": "Silicon Leaf",
+    "startDate": "2025",
+    "endDate": "Completed",
+    "experiences": [
+      "Worked on web development projects",
+      "Learned React.js and frontend development"
+    ],
+    "imageSrc": "history/silicon.png"
+  },
+  {
+    "role": "React + firebase Project",
+    "organisation": "Thought Sharing App",
+    "startDate": "React + Firebase",
+    "endDate": "Project",
+    "experiences": [
+      "Built a thought sharing web application",
+      "Used React and Firebase database"
+    ],
+    "imageSrc": "history/thought.png"
+  },
+  {
+    "role": "React Project",
+    "organisation": "Quiz Web App",
+    "startDate": "React",
+    "endDate": "Project",
+    "experiences": [
+      "Developed an interactive quiz website",
+      "Created simple and user-friendly design"
+    ],
+    "imageSrc": "history/project.png"
+  }
+]

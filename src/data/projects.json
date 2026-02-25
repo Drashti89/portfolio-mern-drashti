@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Thought Sharing App",
+    "imageSrc": "projects/project.png",
+    "description": "A Thoughtsharing web application where users can post and read thoughts online.",
+    "skills": ["React", "Firebase","CSS"],
+    "demo": "https://notesapp-55415.web.app/",
+    "source": "https://github.com/Drashti89/ThoughtsharingApp"
+  },
+  {
+    "title": "QuizMaster App",
+    "imageSrc": "projects/project.png",
+    "description": "An interactive quiz web application with multiple questions and real-time score calculation.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "demo": "https://quizapp-reactonly.vercel.app/",
+    "source": "https://github.com/Drashti89/QuizApp-ReactOnly.git"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "A personal developer portfolio website showcasing projects, skills and experience.",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo": "https://your-link.com",
+    "source": "https://github.com/Drashti89"
+  }
+]
